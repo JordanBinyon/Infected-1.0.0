@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/MinigameFramework.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/arena/Arena.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/arena/ArenaState.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/arena/ArenaTeam.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/arena/ArenaVote.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/events/ArenaEndEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/events/ArenaStartEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/utils/ActionBar.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/utils/AutoRespawn.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/utils/Boundary.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/utils/DBConnector.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/devup/infected/framework/utils/PlayerUtils.java" charset="windows-1252" />
+  </component>
+</project>
